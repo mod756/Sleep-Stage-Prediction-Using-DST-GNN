@@ -1,0 +1,29 @@
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+mne>=1.5.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+pandas>=2.1.0
+tqdm>=4.66.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# GPU Acceleration (optional)
+# Uncomment one of the following based on your CUDA version
+# cupy-cuda11x>=12.0.0
+# cupy-cuda12x>=12.0.0
+
+# Utilities
+pathlib
+datetime
+gc
+warnings
+
+# Optional (used in analysis or visualization)
+networkx>=3.2.0
+pyyaml>=6.0
