@@ -244,20 +244,6 @@ Use demo.py to test the trained model on **any PSG + Hypnogram pair**.
 | **CPU too slow** | Enable GPU by setting `use_gpu=True` in `SleepEDFPreprocessor`. |
 
 
-👨‍💻 Contributors
-------------------
-
-## Contributors
-
-This project was developed as part of the course **EC365 - AI for Biomedical Signal Interpretation**.
-
-| Name              | Roll Number |
-|-------------------|-------------|
-| **KV Modak**      | 23bcs067    |
-| **P Aneesh**  | 23bcs095    |
-| **R Janaki Ram**      | 23bcs141   |
-| **Amith Mathew**  | 23bec005    |
-
 
 🏁 Quick Reference Commands
 ---------------------------
